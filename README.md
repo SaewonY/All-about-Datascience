@@ -17,6 +17,7 @@ This repository contains notes and works about machine learning
 ### Machine Learning General
 - [Clustering](https://www.notion.so/saewonyang/Clustering-05282a69f35047c6aea2ea1ab8b2c685)
 - [Covariate Shift – Unearthing hidden problems in Real World Data Science](https://www.notion.so/saewonyang/Covariate-Shift-Unearthing-hidden-problems-in-Real-World-Data-Science-793c82672d4a430b89fadca059ef8c77)
+- [Linear Regression with Regularization](https://www.notion.so/saewonyang/Linear-Regression-with-Regularization-38e891f1907840389deb7a81ee5f447a#266c2de5a4594f4cb3cf2bd65bc7f39c)
 
 <br>
 
