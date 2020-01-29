@@ -21,7 +21,7 @@ This repository contains notes and works about machine learning
 - [MLE](https://www.notion.so/saewonyang/Maximum-Likelihood-Estimation-904a8fecf7a34202bcbbff39397fa824)
 - [MAP](https://www.notion.so/saewonyang/Maximum-Posterior-Estimation-a4e7cc5d83ff4d1387a303d2cf1f93fd)
 - [PCA Learning](https://www.notion.so/saewonyang/PAC-Learning-a82eaf1025e3400bb70b30d3f7bca24b)
-
+- [Probability and Distribution](https://www.notion.so/saewonyang/Probability-and-Distribution-999a88bc873c4aed8ec84cf3542241aa)
 
 <br>
 
