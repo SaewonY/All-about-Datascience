@@ -40,4 +40,5 @@ This repository contains notes and works about machine learning
 <br>
 
 ### Other Useful Things
+- [python](https://www.notion.so/saewonyang/Python-521c1a4416dc477c847dc19a00bcd18f)
 - [vscode shortcuts](https://www.notion.so/saewonyang/vscode-a10fdd210ce74418a9fa45d6b9fa7b0c)
