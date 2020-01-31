@@ -10,6 +10,7 @@ This repository contains notes and works about machine learning
 * [Computer Vision](#computer-vision)
 * [Natural Language Processing](#natural-language-processing)
 * [Recommender System](#recommender-system)
+* [Stock Price Prediction](#Stock-Price-Prediction)
 * [Programming](#Programming)
 
 <br>
@@ -36,6 +37,12 @@ This repository contains notes and works about machine learning
 <br>
 
 ### Recommender System
+
+
+<br>
+
+### Stock Price Prediction
+- [Moving Average](https://www.notion.so/saewonyang/Moving-Average-1dde4db5719b4b4c8c58326146979b09)
 
 <br>
 
