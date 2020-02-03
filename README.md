@@ -16,6 +16,7 @@ This repository contains notes and works about machine learning
 <br>
 
 ### Machine Learning General
+- [ADSP (Advanced Data Analytics Semi-Professional) Note](https://www.notion.so/saewonyang/ADSP-68a38dd3556b4a0a87fc4cbb953374ef)
 - [Clustering](https://www.notion.so/saewonyang/Clustering-05282a69f35047c6aea2ea1ab8b2c685)
 - [Covariate Shift – Unearthing hidden problems in Real World Data Science](https://www.notion.so/saewonyang/Covariate-Shift-Unearthing-hidden-problems-in-Real-World-Data-Science-793c82672d4a430b89fadca059ef8c77)
 - [Encoding Techniques](https://www.notion.so/saewonyang/Encoding-Techniques-67db9e49f7f34ba7ae0a78cc1fb711fb)
