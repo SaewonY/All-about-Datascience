@@ -25,7 +25,7 @@ This repository contains notes and works about machine learning
 - [MAP](https://www.notion.so/saewonyang/Maximum-Posterior-Estimation-a4e7cc5d83ff4d1387a303d2cf1f93fd)
 - [PCA Learning](https://www.notion.so/saewonyang/PAC-Learning-a82eaf1025e3400bb70b30d3f7bca24b)
 - [Probability and Distribution](https://www.notion.so/saewonyang/Probability-and-Distribution-999a88bc873c4aed8ec84cf3542241aa)
-- [Rule Based Machine Learning Overview](https://www.notion.so/saewonyang/Rule-Based-Machine-Learning-Overview-9ce4ef61582743819b605a67a16dcf02)
+- [Fundamentals of Machine Learning](https://www.notion.so/saewonyang/Fundamentals-of-Machine-Learning-a4388392a33141d69955dc199889c270)
 
 <br>
 
