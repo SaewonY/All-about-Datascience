@@ -26,7 +26,7 @@ This repository contains notes and works about machine learning
 - [PCA Learning](https://www.notion.so/saewonyang/PAC-Learning-a82eaf1025e3400bb70b30d3f7bca24b)
 - [Probability and Distribution](https://www.notion.so/saewonyang/Probability-and-Distribution-999a88bc873c4aed8ec84cf3542241aa)
 - [Fundamentals of Machine Learning](https://www.notion.so/saewonyang/Fundamentals-of-Machine-Learning-a4388392a33141d69955dc199889c270)
-
+- [Naive Bayes Classifier](https://www.notion.so/saewonyang/Naive-Bayes-Classifier-65d4c600bd6d403b82b20233e15ae60d)
 
 <br>
 
