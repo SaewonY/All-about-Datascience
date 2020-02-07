@@ -1,4 +1,4 @@
-# Machine Learning - notes, codes
+# Machine Learning - notes, codes (just for me)
 
 This repository contains notes and works about machine learning
 
