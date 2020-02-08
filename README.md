@@ -23,7 +23,7 @@ This repository contains notes and works about machine learning
 - [Linear Regression with Regularization](https://www.notion.so/saewonyang/Linear-Regression-with-Regularization-38e891f1907840389deb7a81ee5f447a#804741d58b7d4f56907308e320d41dec)
 - [MLE](https://www.notion.so/saewonyang/Maximum-Likelihood-Estimation-904a8fecf7a34202bcbbff39397fa824)
 - [MAP](https://www.notion.so/saewonyang/Maximum-Posterior-Estimation-a4e7cc5d83ff4d1387a303d2cf1f93fd)
-- [PCA Learning](https://www.notion.so/saewonyang/PAC-Learning-a82eaf1025e3400bb70b30d3f7bca24b)
+- [PAC Learning](https://www.notion.so/saewonyang/PAC-Learning-a82eaf1025e3400bb70b30d3f7bca24b)
 - [Probability and Distribution](https://www.notion.so/saewonyang/Probability-and-Distribution-999a88bc873c4aed8ec84cf3542241aa)
 - [Fundamentals of Machine Learning](https://www.notion.so/saewonyang/Fundamentals-of-Machine-Learning-a4388392a33141d69955dc199889c270)
 - [Naive Bayes Classifier](https://www.notion.so/saewonyang/Naive-Bayes-Classifier-65d4c600bd6d403b82b20233e15ae60d)
