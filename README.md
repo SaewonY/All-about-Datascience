@@ -15,12 +15,13 @@ This repository contains notes and works about machine learning
 
 <br>
 
-### Machine Learning General
+### Machine Learning General 
 - [ADSP (Advanced Data Analytics Semi-Professional) Note](https://www.notion.so/saewonyang/ADSP-68a38dd3556b4a0a87fc4cbb953374ef)
 - [Clustering](https://www.notion.so/saewonyang/Clustering-05282a69f35047c6aea2ea1ab8b2c685)
 - [Covariate Shift – Unearthing hidden problems in Real World Data Science](https://www.notion.so/saewonyang/Covariate-Shift-Unearthing-hidden-problems-in-Real-World-Data-Science-793c82672d4a430b89fadca059ef8c77)
 - [Encoding Techniques](https://www.notion.so/saewonyang/Encoding-Techniques-67db9e49f7f34ba7ae0a78cc1fb711fb)
 - [Linear Regression with Regularization](https://www.notion.so/saewonyang/Linear-Regression-with-Regularization-38e891f1907840389deb7a81ee5f447a#804741d58b7d4f56907308e320d41dec)
+- [Logistic Regression](https://www.notion.so/saewonyang/Logistic-Regression-a2c005161b0b4ba7b05cd31f256bd5de)
 - [MLE](https://www.notion.so/saewonyang/Maximum-Likelihood-Estimation-904a8fecf7a34202bcbbff39397fa824)
 - [MAP](https://www.notion.so/saewonyang/Maximum-Posterior-Estimation-a4e7cc5d83ff4d1387a303d2cf1f93fd)
 - [PAC Learning](https://www.notion.so/saewonyang/PAC-Learning-a82eaf1025e3400bb70b30d3f7bca24b)
@@ -45,7 +46,7 @@ This repository contains notes and works about machine learning
 
 <br>
 
-### Stock Price Prediction
+### Stock Price Prediction [(papers review)](https://www.notion.so/saewonyang/papers-2fb144c4a63a440ba32f6428bb4ecf4d)
 - [Moving Average](https://www.notion.so/saewonyang/Moving-Average-1dde4db5719b4b4c8c58326146979b09)
 
 <br>
