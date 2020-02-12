@@ -10,7 +10,7 @@ This repository contains notes and works about machine learning
 * [Computer Vision](#computer-vision)
 * [Natural Language Processing](#natural-language-processing)
 * [Recommender System](#recommender-system)
-* [Stock Price Prediction](#Stock-Price-Prediction)
+* [Time-Series Prediction](#Time-Series-Prediction)
 * [Programming](#Programming)
 
 <br>
@@ -46,7 +46,7 @@ This repository contains notes and works about machine learning
 
 <br>
 
-### Stock Price Prediction
+### Time-Series Prediction
 - [paper reviews](https://www.notion.so/saewonyang/papers-2fb144c4a63a440ba32f6428bb4ecf4d)
 - [Moving Average](https://www.notion.so/saewonyang/Moving-Average-1dde4db5719b4b4c8c58326146979b09)
 - [Wavelet Transform](https://www.notion.so/saewonyang/Wavelet-Transform-3648403b8ae5434bbee6618b53c53b39)
