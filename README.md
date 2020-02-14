@@ -9,9 +9,9 @@ This repository contains notes and works about machine learning
 * [Machine Learning General](#machine-learning-general)
 * [Computer Vision](#computer-vision)
 * [Natural Language Processing](#natural-language-processing)
-* [Recommender System](#recommender-system)
 * [Time-Series Prediction](#Time-Series-Prediction)
 * [Programming](#Programming)
+<!-- * [Recommender System](#recommender-system) -->
 
 <br>
 
@@ -40,9 +40,9 @@ This repository contains notes and works about machine learning
 - [Regular Expression](https://www.notion.so/saewonyang/Regular-Expression-5de9b0ba09dc49208ea4c4dd945f242a)
 
 
-<br>
+<!-- <br>
 
-### Recommender System
+### Recommender System -->
 
 
 <br>
