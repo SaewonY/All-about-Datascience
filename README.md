@@ -32,6 +32,7 @@ This repository contains notes and works about machine learning
 <br>
 
 ### Computer Vision
+- [Segmentation](https://www.notion.so/saewonyang/Segmentation-4029f1bd18e2412abf85ab823b076ae3)
 
 <br>
 
