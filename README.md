@@ -33,6 +33,7 @@ This repository contains notes and works about machine learning
 
 ### Computer Vision
 - [Segmentation](https://www.notion.so/saewonyang/Segmentation-4029f1bd18e2412abf85ab823b076ae3)
+- [DeepFake](https://www.notion.so/saewonyang/DeepFake-6d00def61f9848e0896a616014b81903)
 
 <br>
 
