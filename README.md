@@ -1,6 +1,6 @@
-# Machine Learning - notes, codes (just for me)
+# Machine Learning - notes, codes
 
-This repository contains notes and works about machine learning
+This repository contains notes and works about machine learning (just for me)
 
 <br>
 
