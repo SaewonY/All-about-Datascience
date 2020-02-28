@@ -11,6 +11,7 @@ This repository contains notes and works about machine learning (just for me)
 * [Natural Language Processing](#natural-language-processing)
 * [Time-Series Prediction](#Time-Series-Prediction)
 * [Programming](#Programming)
+<!-- * [Reinforcement Learing](#Reinforcement-Learing) -->
 <!-- * [Recommender System](#recommender-system) -->
 
 <br>
@@ -41,12 +42,8 @@ This repository contains notes and works about machine learning (just for me)
 - [Regular Expression](https://www.notion.so/saewonyang/Regular-Expression-5de9b0ba09dc49208ea4c4dd945f242a)
 
 
-<!-- <br>
-
-### Recommender System -->
-
-
 <br>
+
 
 ### Time-Series Prediction
 - [paper reviews](https://www.notion.so/saewonyang/papers-2fb144c4a63a440ba32f6428bb4ecf4d)
@@ -55,6 +52,11 @@ This repository contains notes and works about machine learning (just for me)
 - [Wavelet Transform](https://www.notion.so/saewonyang/Wavelet-Transform-3648403b8ae5434bbee6618b53c53b39)
 
 <br>
+
+
+<!-- ### Recommender System  -->
+<!-- ### Reinforcement Learing -->
+
 
 ### Programming
 - [python](https://www.notion.so/saewonyang/Python-521c1a4416dc477c847dc19a00bcd18f)
