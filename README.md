@@ -11,7 +11,7 @@ This repository contains notes and works about machine learning (just for me)
 * [Natural Language Processing](#natural-language-processing)
 * [Time-Series Prediction](#Time-Series-Prediction)
 * [Programming](#Programming)
-<!-- * [Reinforcement Learing](#Reinforcement-Learing) -->
+* [Reinforcement Learing](#Reinforcement-Learing)
 <!-- * [Recommender System](#recommender-system) -->
 
 <br>
@@ -55,8 +55,13 @@ This repository contains notes and works about machine learning (just for me)
 
 
 <!-- ### Recommender System  -->
-<!-- ### Reinforcement Learing -->
 
+
+### Reinforcement Learing
+
+- [useful materials](https://drive.google.com/drive/u/0/folders/1ggpMuVJzsOWB8BORK1OBvRQy7t4rosAm)
+
+<br>
 
 ### Programming
 - [python](https://www.notion.so/saewonyang/Python-521c1a4416dc477c847dc19a00bcd18f)
