@@ -66,3 +66,4 @@ This repository contains notes and works about machine learning (just for me)
 ### Programming
 - [python](https://www.notion.so/saewonyang/Python-521c1a4416dc477c847dc19a00bcd18f)
 - [vscode shortcuts](https://www.notion.so/saewonyang/vscode-a10fdd210ce74418a9fa45d6b9fa7b0c)
+- [shell scripting](https://www.notion.so/saewonyang/Shell-Scripting-0c2375278d88481bb2306e3dbf5dd00b)
