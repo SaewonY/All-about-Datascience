@@ -10,8 +10,8 @@ This repository contains notes and works about machine learning (just for me)
 * [Computer Vision](#computer-vision)
 * [Natural Language Processing](#natural-language-processing)
 * [Time-Series Prediction](#Time-Series-Prediction)
-* [Programming](#Programming)
 * [Reinforcement Learing](#Reinforcement-Learing)
+* [Programming](#Programming)
 <!-- * [Recommender System](#recommender-system) -->
 
 <br>
@@ -68,3 +68,9 @@ This repository contains notes and works about machine learning (just for me)
 - [vscode shortcuts](https://www.notion.so/saewonyang/vscode-a10fdd210ce74418a9fa45d6b9fa7b0c)
 - [shell scripting](https://www.notion.so/saewonyang/Shell-Scripting-0c2375278d88481bb2306e3dbf5dd00b)
 - [tmux](https://www.notion.so/saewonyang/tmux-5f452acd1ece48e78d28b61356b9dd1b)
+
+<br>
+
+<!-- ### Etc
+
+- [PC Hardware Spec](https://www.notion.so/saewonyang/PC-Hardware-Spec-e29a255f7bda4af9a2a67769311e1fd5) -->
