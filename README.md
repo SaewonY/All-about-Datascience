@@ -12,8 +12,10 @@ This repository contains notes and works about machine learning (just for me)
 * [Time-Series Prediction](#Time-Series-Prediction)
 * [Reinforcement Learing](#Reinforcement-Learing)
 * [Programming](#Programming)
+* [Etc](#Etc)
 <!-- * [Recommender System](#recommender-system) -->
 
+<br>
 <br>
 
 ### Machine Learning General 
@@ -71,6 +73,6 @@ This repository contains notes and works about machine learning (just for me)
 
 <br>
 
-<!-- ### Etc
+### Etc
 
-- [PC Hardware Spec](https://www.notion.so/saewonyang/PC-Hardware-Spec-e29a255f7bda4af9a2a67769311e1fd5) -->
+- [PC Hardware Spec](https://www.notion.so/saewonyang/PC-Hardware-Spec-e29a255f7bda4af9a2a67769311e1fd5)
