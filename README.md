@@ -1,21 +1,25 @@
-# Machine Learning - notes, codes
+# All about Datascience
 
-This repository contains notes and works about machine learning (just for me)
+This repository contains notes and works about machine learning
 
 <br>
 
 ## Contents
 
 * [Machine Learning General](#machine-learning-general)
+* [Computer Science General](#Computer-Science-General)
+* [Programming](#Programming)
 * [Computer Vision](#computer-vision)
 * [Natural Language Processing](#natural-language-processing)
 * [Time-Series Prediction](#Time-Series-Prediction)
 * [Reinforcement Learing](#Reinforcement-Learing)
-* [Programming](#Programming)
 * [Etc](#Etc)
 <!-- * [Recommender System](#recommender-system) -->
 
 <br>
+
+#
+
 <br>
 
 ### Machine Learning General 
@@ -34,6 +38,20 @@ This repository contains notes and works about machine learning (just for me)
 
 <br>
 
+### Computer Science General
+
+- [Docker](https://www.notion.so/saewonyang/Docker-2f80528525cf4ac799d7a6508afd5323)
+
+<br>
+
+### Programming
+- [python](https://www.notion.so/saewonyang/Python-521c1a4416dc477c847dc19a00bcd18f)
+- [vscode shortcuts](https://www.notion.so/saewonyang/vscode-a10fdd210ce74418a9fa45d6b9fa7b0c)
+- [shell scripting](https://www.notion.so/saewonyang/Shell-Scripting-0c2375278d88481bb2306e3dbf5dd00b)
+- [tmux](https://www.notion.so/saewonyang/tmux-5f452acd1ece48e78d28b61356b9dd1b)
+
+<br>
+
 ### Computer Vision
 - [Segmentation](https://www.notion.so/saewonyang/Segmentation-4029f1bd18e2412abf85ab823b076ae3)
 - [DeepFake](https://www.notion.so/saewonyang/DeepFake-6d00def61f9848e0896a616014b81903)
@@ -45,7 +63,6 @@ This repository contains notes and works about machine learning (just for me)
 
 
 <br>
-
 
 ### Time-Series Prediction
 - [paper reviews](https://www.notion.so/saewonyang/papers-2fb144c4a63a440ba32f6428bb4ecf4d)
@@ -62,14 +79,6 @@ This repository contains notes and works about machine learning (just for me)
 ### Reinforcement Learing
 
 - [useful materials](https://drive.google.com/drive/u/0/folders/1ggpMuVJzsOWB8BORK1OBvRQy7t4rosAm)
-
-<br>
-
-### Programming
-- [python](https://www.notion.so/saewonyang/Python-521c1a4416dc477c847dc19a00bcd18f)
-- [vscode shortcuts](https://www.notion.so/saewonyang/vscode-a10fdd210ce74418a9fa45d6b9fa7b0c)
-- [shell scripting](https://www.notion.so/saewonyang/Shell-Scripting-0c2375278d88481bb2306e3dbf5dd00b)
-- [tmux](https://www.notion.so/saewonyang/tmux-5f452acd1ece48e78d28b61356b9dd1b)
 
 <br>
 
