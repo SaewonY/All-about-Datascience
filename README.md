@@ -47,6 +47,7 @@ This repository contains notes and works about machine learning
 ### Programming
 - [nano commands](https://www.notion.so/saewonyang/Nano-Commands-96920c270a10402f85d4dee2eecb45b2)
 - [python](https://www.notion.so/saewonyang/Python-521c1a4416dc477c847dc19a00bcd18f)
+- [R ↔ Python (syntax conversion)](https://www.notion.so/saewonyang/R-Python-syntax-conversion-2cff751f182c486887a13e4b5ecdeb5c)
 - [shell scripting](https://www.notion.so/saewonyang/Shell-Scripting-0c2375278d88481bb2306e3dbf5dd00b)
 - [tmux](https://www.notion.so/saewonyang/tmux-5f452acd1ece48e78d28b61356b9dd1b)
 - [vscode shortcuts](https://www.notion.so/saewonyang/vscode-a10fdd210ce74418a9fa45d6b9fa7b0c)
