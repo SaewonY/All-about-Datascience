@@ -13,13 +13,11 @@ This repository contains notes and works about machine learning
 * [Natural Language Processing](#natural-language-processing)
 * [Time-Series Prediction](#Time-Series-Prediction)
 * [Reinforcement Learing](#Reinforcement-Learing)
+* [XAI](#XAI)
 * [Etc](#Etc)
 <!-- * [Recommender System](#recommender-system) -->
 
 <br>
-
-#
-
 <br>
 
 ### Machine Learning General 
@@ -38,13 +36,16 @@ This repository contains notes and works about machine learning
 
 <br>
 
+
 ### Computer Science General
 
 - [Docker](https://www.notion.so/saewonyang/Docker-2f80528525cf4ac799d7a6508afd5323)
 
 <br>
 
+
 ### Programming
+
 - [nano commands](https://www.notion.so/saewonyang/Nano-Commands-96920c270a10402f85d4dee2eecb45b2)
 - [python](https://www.notion.so/saewonyang/Python-521c1a4416dc477c847dc19a00bcd18f)
 - [R ↔ Python (syntax conversion)](https://www.notion.so/saewonyang/R-Python-syntax-conversion-2cff751f182c486887a13e4b5ecdeb5c)
@@ -54,13 +55,16 @@ This repository contains notes and works about machine learning
 
 <br>
 
+
 ### Computer Vision
+
 - [Segmentation](https://www.notion.so/saewonyang/Segmentation-4029f1bd18e2412abf85ab823b076ae3)
 - [DeepFake](https://www.notion.so/saewonyang/DeepFake-6d00def61f9848e0896a616014b81903)
 
 <br>
 
 ### Natural Language Processing
+
 - [Regular Expression](https://www.notion.so/saewonyang/Regular-Expression-5de9b0ba09dc49208ea4c4dd945f242a)
 
 
@@ -81,6 +85,12 @@ This repository contains notes and works about machine learning
 ### Reinforcement Learing
 
 - [useful materials](https://drive.google.com/drive/u/0/folders/1ggpMuVJzsOWB8BORK1OBvRQy7t4rosAm)
+
+<br>
+
+### XAI
+
+- [Partial Dependence Plot](https://www.notion.so/saewonyang/Partial-Dependence-Plot-PDP-73272f0f50314ed790a78aac278244b0)
 
 <br>
 
