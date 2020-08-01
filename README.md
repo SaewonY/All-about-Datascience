@@ -90,7 +90,8 @@ This repository contains notes and works about machine learning
 
 ### XAI
 
-- [Partial Dependence Plot](https://www.notion.so/saewonyang/Partial-Dependence-Plot-PDP-73272f0f50314ed790a78aac278244b0)
+- [Feature Importance](https://www.notion.so/saewonyang/Feature-Importance-34d8f0c4e2274dbf83a1a3bceddbfd17)
+- [PDP (Partial Dependence Plot)](https://www.notion.so/saewonyang/Partial-Dependence-Plot-PDP-73272f0f50314ed790a78aac278244b0)
 
 <br>
 
